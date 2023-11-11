@@ -11,13 +11,13 @@ word = random.choice(word_list)
 print(word)
 
 # Run the code several times and observe the words printed out after each run.
-for i in range(6):
+for choice in range(10):
     print(random.choice(word_list))
 
 # Ask the user to enter a single letter
 guess = input('Guess a single letterr in the randomly chosen word:\n')
 
-# Check that the input is a single charachter
+# Check that the input is a single alphabet
 if len(guess)==1 and guess.isalpha():
     print('Good guess!')
 else:
