@@ -1,5 +1,5 @@
 import random
-# List of five favourite fruits assigned to a variable called word_list
+# Create a list of five fruits and assign it to a variable called word_list
 word_list = ['grape', 'apple', 'mango', 'orange', 'kiwi']
 # Print out word_list to the stadard output screen
 print(word_list)
