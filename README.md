@@ -19,7 +19,10 @@ Follow the following instructions to play the game:
 - Type the requested user inputs and press the return key, until the game is either won or lost.
 
 ## File Structure
-Hangman/milestone_5.py
+hangman - code folder
+LICENSE file
+.gitignore file
+README.md file
 
 ## License Information
 MIT License
