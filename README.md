@@ -7,7 +7,7 @@ This is an implementation of the Hangman game, where the computer thinks of a se
 The aim of this project is to demonstrate a working advanced knowledge of the Python programming language. Some Object-oriented programming (OOP) concepts employed in this project include Objects, Classes, Encapsulation, and Data Abstraction. I have also learned to apply Single Responsibility Principle (SRP), Access Modifier, Docstrings and multiple return values.
 
 ## Installation Instructions
-Download the file named 'milestone_5.py' to a folder named 'hangman' in your computer.
+Download the file named 'milestone_5.py' to a folder named in your computer.
 
 ## Usage Instructions
 To play the game the user will be required to guess unique single alphabetical characters which are combined to find the secret word. Only single alphabetical character is accepted as valid user input.  The user loses the game if he records a total of five incorrect guesses and will be informed with the message - 'You lost!'.
@@ -19,7 +19,7 @@ Follow the following instructions to play the game:
 - Type the requested user inputs and press the return key, until the game is either won or lost.
 
 ## File Structure
-- hangman - code folder
+- milestone_5.py
 - LICENSE file
 - .gitignore file
 - README.md file
