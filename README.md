@@ -15,11 +15,11 @@ Every incorrect guess comes with a message informing the user of the number of l
 
 Follow the following instructions to play the game:
 - At the command prompt, navigate to the 'hangman' folder in computer.
-- Type 'python milestone_5.py' at the command prompt.
+- Type 'python hangman.py' at the command prompt.
 - Type the requested user inputs and press the return key, until the game is either won or lost.
 
 ## File Structure
-- milestone_5.py
+- hangman.py
 - LICENSE file
 - .gitignore file
 - README.md file
