@@ -6,6 +6,15 @@ This is an implementation of the Hangman game, where the computer thinks of a se
 
 The aim of this project is to demonstrate a working advanced knowledge of the Python programming language. Some Object-oriented programming (OOP) concepts employed in this project include Objects, Classes, Encapsulation, and Data Abstraction. I have also learned to apply Single Responsibility Principle (SRP), Access Modifier, Docstrings and multiple return values.
 
+### Screenshots of Code Snippets
+![Hangman Init](/hangman_init_code.png)
+
+![Check Guess](/check_guess_code.png)
+
+![Ask For Input](/ask_for_input_code.png)
+
+![Play Gamet](/play_game_code.png)
+
 ## Installation Instructions
 Download the file named 'hangman.py' to a folder named in your computer.
 
