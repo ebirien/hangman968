@@ -69,6 +69,7 @@ class Hangman:
                 self.list_of_guesses.append(guess)        
                 self.__check_guess(guess)
                 return self.num_lives, self.num_letters
+            
 
 if __name__ == "__main__":
 
